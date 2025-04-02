@@ -1,5 +1,13 @@
-## Hi there 👋
+## Eungmin An | Student of Korea Polytechnics 👋
 
+## About Me 💁
+- 🌱 Student at Korea Polytechnics of Seoul Kangseo Campus
+- ✏️ Learning Cloud Native Application, MSA, Big Data, AI, etc.
+- 💻 Interest in backend development
+
+## Tech Stack & Tools 🛠️
+- 🧑‍💻 Backend & Cloud
+-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 <!--
 **masche14/masche14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
