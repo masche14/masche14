@@ -66,10 +66,10 @@
 <div align="center">
   
   <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masche14&show_icons=true&theme=radical" alt="GitHub Stats"/>
   
   <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=사용자명&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masche14&layout=compact&theme=radical" alt="Most Used Languages"/>
   
 </div>
 
