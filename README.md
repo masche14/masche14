@@ -19,9 +19,7 @@
   - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
   
 - 🧠 AI & Machine Learning
-  - ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-  - ![ModelsLab](https://img.shields.io/badge/ModelsLab-0052CC?style=for-the-badge&logo=googlecolab&logoColor=white)
-  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  - ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![ModelsLab](https://img.shields.io/badge/ModelsLab-0052CC?style=for-the-badge&logo=googlecolab&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 <!--
 **masche14/masche14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
