@@ -14,6 +14,12 @@
 
 - 🛢️ Data Management
   - ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+- ☁️ Cloud
+  - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![K-PaaS](https://img.shields.io/badge/K--PaaS-0052CC?style=for-the-badge&logo=cloud&logoColor=white)
+
+- 🗂️ Cloud-Native Applications
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
   
 - 📈 Data Visualization
   - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -25,6 +31,11 @@
 - 🏡 Nestify | Development of an AI-powered Interior Design Generation and Furniture Recommendation Service (K-PaaS 공모전)
 - 👨‍👩‍👧‍👦 곁봄 | Development of a Health Management Service with AI-driven Health Data Analysis and Family Health Checkup Sharing (한이음 공모)
 - 💊 하루약속 | Development of an AI-powered Prescription Medication Reminder Service (Personal Project)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=radical)
+
 <!--
 **masche14/masche14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
