@@ -56,6 +56,11 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
+## Featured Projects
+ - 🏡 Nestify | Development of an AI-powered Interior Design Generation and Furniture Recommendation Service (K-PaaS 공모전)
+ - 👨‍👩‍👧‍👦 곁봄 | Development of a Health Management Service with AI-driven Health Data Analysis and Family Health Checkup Sharing (한이음 공모)
+ - 💊 하루약속 | Development of an AI-powered Prescription Medication Reminder Service (Personal Project)
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masche14&show_icons=true&theme=radical)
