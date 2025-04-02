@@ -65,12 +65,12 @@
   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
 </p>
 
-## Featured Projects
+## Featured Projects 💡
  - 🏡 Nestify | Development of an AI-powered Interior Design Generation and Furniture Recommendation Service (K-PaaS 공모전)
  - 👨‍👩‍👧‍👦 곁봄 | Development of a Health Management Service with AI-driven Health Data Analysis and Family Health Checkup Sharing (한이음 공모)
  - 💊 하루약속 | Development of an AI-powered Prescription Medication Reminder Service (Personal Project)
 
-## 📊 GitHub Stats
+## GitHub Stats 📊
 
 <div align="center">
   
@@ -81,6 +81,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masche14&layout=compact&theme=radical" alt="Most Used Languages"/>
   
 </div>
+
+## Contact 📇
+- 📞 Phone | 010-4925-7175
+- ✉️ E-mail | zskfnxh134@gmail.com
 
 
 <!--
