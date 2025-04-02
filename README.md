@@ -56,6 +56,15 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
+<p>🛠️ Development Environments</p>
+<p>💻 <strong>IDE & Editors</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
+</p>
+
 ## Featured Projects
  - 🏡 Nestify | Development of an AI-powered Interior Design Generation and Furniture Recommendation Service (K-PaaS 공모전)
  - 👨‍👩‍👧‍👦 곁봄 | Development of a Health Management Service with AI-driven Health Data Analysis and Family Health Checkup Sharing (한이음 공모)
