@@ -22,9 +22,9 @@
   - ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![ModelsLab](https://img.shields.io/badge/ModelsLab-0052CC?style=for-the-badge&logo=googlecolab&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## Featured Projects
-- Nestify | Development of an AI-powered Interior Design Generation and Furniture Recommendation Service (K-PaaS 공모전)
-- 곁봄 | Development of a Health Management Service with AI-driven Health Data Analysis and Family Health Checkup Sharing (한이음 공모)
-- 하루약속 | Development of an AI-powered Prescription Medication Reminder Service (Personal Project)
+- 🏡 Nestify | Development of an AI-powered Interior Design Generation and Furniture Recommendation Service (K-PaaS 공모전)
+- 👨‍👩‍👧‍👦 곁봄 | Development of a Health Management Service with AI-driven Health Data Analysis and Family Health Checkup Sharing (한이음 공모)
+- 💊 하루약속 | Development of an AI-powered Prescription Medication Reminder Service (Personal Project)
 <!--
 **masche14/masche14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
